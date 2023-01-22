@@ -1,0 +1,12 @@
+/home/leticia/ClassLibraryProjects/Uc18Testes/bin/Release/net6.0/Uc18Testes.deps.json
+/home/leticia/ClassLibraryProjects/Uc18Testes/bin/Release/net6.0/Uc18Testes.dll
+/home/leticia/ClassLibraryProjects/Uc18Testes/bin/Release/net6.0/ref/Uc18Testes.dll
+/home/leticia/ClassLibraryProjects/Uc18Testes/bin/Release/net6.0/Uc18Testes.pdb
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.csproj.AssemblyReference.cache
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.AssemblyInfoInputs.cache
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.AssemblyInfo.cs
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.csproj.CoreCompileInputs.cache
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.dll
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/ref/Uc18Testes.dll
+/home/leticia/ClassLibraryProjects/Uc18Testes/obj/Release/net6.0/Uc18Testes.pdb
